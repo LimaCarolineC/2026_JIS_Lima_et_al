@@ -1,0 +1,169 @@
+@inproceedings{almeida2024cultural,
+  title={Cultural game jam model: A quadruple helix intervention},
+  author={Almeida, Wilson and Luz, Filipe and Fernandes, Pedro and Fonseca, Maria},
+  booktitle={Proceedings of the European Conference on Games-based Learning},
+  volume={18},
+  number={1},
+  pages={46--53},
+  year={2024},
+  organization={Dechema eV}
+}
+
+@article{melo2025storytelling,
+  title={Storytelling como experi{\^e}ncia projetada: Processos de design aplicados na constru{\c{c}}{\~a}o de experi{\^e}ncias de storytelling},
+  author={Melo, Bruno F and Machado, Anderson FP and Baffa, Augusto and Feij{\'o}, Bruno},
+  journal={Blucher Design Proceedings},
+  volume={13},
+  pages={306--320},
+  year={2025}
+}
+
+@article{da2025metodos,
+  title={M{\'e}todos de Game Design Aplicados a Jogos de Tabuleiro: Uma Revis{\~a}o Sistem{\'a}tica},
+  author={da Silva, Eduardo Jorge Lira Antunes and de Ara{\'u}jo, Cristina Souza and da Silva J{\'u}nior, Jucimar Maia},
+  journal={Simp{\'o}sio Brasileiro de Jogos e Entretenimento Digital (SBGames)},
+  pages={219--232},
+  year={2025},
+  publisher={SBC}
+}
+
+@article{diasrepresentaccao,
+  title={Representa{\c{c}}{\~a}o visual de sistemas: suporte para a constru{\c{c}}{\~a}o colaborativa de sentidos na elabora{\c{c}}{\~a}o de jogos anal{\'o}gicos como projeto de pesquisa e aprendizagem no Ensino M{\'e}dio},
+  author={Dias, Cynthia Macedo and Farbiarz, Jackeline Lima},
+  journal={Blucher Design Proceedings},
+  pages={1161--1172}
+}
+
+@article{nery2025design,
+  title={Design Science Research for the Development of an Educational Digital Game with an Ethical-Moral Focus},
+  author={Nery, Michelle and Antunes, Diego and Panasiewicz, Roberlei and Ishitani, Lucila},
+  journal={RENOTE},
+  volume={24},
+  number={2},
+  pages={489--500},
+  year={2025}
+}
+
+@inproceedings{da2025processo,
+  title={Processo Em Jogo—Transformando Mapeamento de Processos Reais em Jogos S{\'e}rios e Simula{\c{c}}oes},
+  author={da Silva, Breno Avelino Costa and Honorato, C{\'e}lio and Diniz, Vin{\'\i}cius and Parreiras, Marcus and Bastos, Edson and Xex{\'e}o, Geraldo},
+  booktitle={Simp{\'o}sio Brasileiro de Jogos e Entretenimento Digital (SBGames)},
+  pages={442--453},
+  year={2025},
+  organization={SBC}
+}
+
+@article{alves2024desenvolvendo,
+  title={Desenvolvendo uma ferramenta de gerenciamento das atividades de desenvolvimento de jogos baseada em kanban para a marmota factory},
+  author={Alves, Raul Renner de Paulo},
+  year={2024}
+}
+
+@inproceedings{melo2024revisao,
+  title={Uma Revis{\~a}o Sistematizada sobre Design Participativo Integrado {\`a} Engenharia de Software em Dom{\'\i}nio Educacional},
+  author={Melo, Amanda Meincke and Cheiran, Jean Felipe Patikowski and de Melo, Auri Gabriel Castro and de Amorim, Gabriel Souza Rodrigues},
+  booktitle={Simp{\'o}sio Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o (SBIE)},
+  pages={314--328},
+  year={2024},
+  organization={SBC}
+}
+
+@article{benigno2024processos,
+  title={Processos de software para jogos digitais: uma revis{\~a}o terci{\'a}ria da literatura},
+  author={Benigno, Marcos Vin{\'\i}cius Bezerra and Teixeira, Eld{\^a}nae Nogueira and Werner, Cl{\'a}udia},
+  journal={Simp{\'o}sio Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o (SBIE)},
+  pages={665--680},
+  year={2024},
+  publisher={SBC}
+}
+
+@mastersthesis{pereira2024promoccao,
+  title={Promo{\c{c}}{\~a}o de Compet{\^e}ncias de Regula{\c{c}}{\~a}o Emocional em Pais: Desenvolvimento Participativo de um Jogo S{\'e}rio},
+  author={Pereira, M{\'o}nica Moura},
+  year={2024},
+  school={Universidade do Porto (Portugal)}
+}
+
+@inproceedings{pieva2024inovaccao,
+  title={Inova{\c{c}}ao em pr{\'a}tica: Avaliando a efetividade de uma extensao do kernel essence no gerenciamento de projetos de jogos digitais por meio de grupo focal},
+  author={Pieva, Lucas and Pillat, Raquel and Mossmann, Jo{\~a}o Batista and Bernardino, Maicon},
+  booktitle={Simp{\'o}sio Brasileiro de Jogos e Entretenimento Digital (SBGames)},
+  pages={241--251},
+  year={2024},
+  organization={SBC}
+}
+
+@mastersthesis{junkes2024mutant,
+  title={Mutant Codebraker: um jogo para auxiliar o ensino de teste de muta{\c{c}}{\~a}o},
+  author={Junkes, Erasmo},
+  type={{B.S.} thesis},
+  year={2024},
+  school={Universidade Tecnol{\'o}gica Federal do Paran{\'a}}
+}
+
+@article{de2025sustentabilidade,
+  title={Sustentabilidade social e econ{\^o}mica em sa{\'u}de: UXDesign e gamifica{\c{c}}{\~a}o aplicados em ambiente hospitalar},
+  author={de Lemos Wiese, Luiz Paulo and Santos, Adriane Shibata and Fernandes, Karol Arias and Crema, Gabriel Wegner and Fernandez, Ana Laura Wiese},
+  journal={Pensamentos em Design},
+  volume={5},
+  number={2},
+  pages={134--146},
+  year={2025}
+}
+
+@article{degamificaccao,
+  title={GAMIFICA{\c{C}}{\~A}O COMO INSTRUMENTO PARA ENGAJAMENTO E MOTIVA{\c{C}}{\~A}O: estudo de casos nos diversos n{\'\i}veis de educa{\c{c}}{\~a}o},
+  author={de Lemos Wiese, Luiz Paulo and Schulenburg, Haro Ristow Wippel and Dickie, Isadora Burmeister and Santos, Adriane Shibata}
+}
+
+@article{peres2024papel,
+  title={O papel dos jogos no envolvimento dos estudantes nas aprendizagens},
+  author={Peres, Paula and Latourrette, Ivo},
+  journal={Sucesso Acad{\'e}mico no Ensino Superior},
+  year={2024}
+}
+
+@article{ribeiro2025gamificaccao,
+  title={Gamifica{\c{c}}{\~a}o Nas Disciplinas de Educa{\c{c}}{\~a}o Visual e Educa{\c{c}}{\~a}o Tecnol{\'o}gica: Aplica{\c{c}}{\~a}o+ Pontos},
+  author={Ribeiro, Maria In{\^e}s Marques de Passos},
+  year={2025}
+}
+
+@article{malamud2024designers,
+  title={Designers no processo de city branding: uma abordagem integrada},
+  author={Malamud, Paula},
+  year={2024},
+  publisher={Universidade de Lisboa, Faculdade de Arquitetura}
+}
+
+@article{gomes2025integraccao,
+  title={Integra{\c{c}}{\~a}o de homeostase, aprendizado por refor{\c{c}}o e emo{\c{c}}{\~o}es no projeto de personagens virtuais aut{\^o}nomos},
+  author={Gomes, Gilzamir Ferreira},
+  year={2025}
+}
+
+@mastersthesis{oliveira2024analise,
+  title={An{\'a}lise do impacto dos elementos sonoros de videojogos de terror na imers{\~a}o e envolvimento do jogador},
+  author={Oliveira, Cl{\'a}udia Sofia Mateus},
+  year={2024},
+  school={Instituto Politecnico do Porto (Portugal)}
+}
+
+@article{gomes2025desenvolvimento,
+  title={DESENVOLVIMENTO DE DASHBOARDS PARA CRIAN{\c{C}}AS E JOVENS COM DIABETES TIPO 1},
+  author={Gomes, Ana Lu{\'\i}sa Costa},
+  year={2025}
+}
+
+@article{sarte2025journey,
+  title={Journey: Capacita{\c{c}}{\~a}o em Uso Cr{\'\i}tico de IA Generativa para Mitiga{\c{c}}{\~a}o de Shadow AI no Desenvolvimento de Software},
+  author={Sarte, Gabriel Barboza},
+  year={2025}
+}
+
+@phdthesis{tomaz2024implementaccao,
+  title={Implementa{\c{c}}{\~a}o de a{\c{c}}{\~o}es educativas sobre sa{\'u}de mental p{\'o}s-parto com profissionais de enfermagem na maternidade},
+  author={Tomaz, Raquel Gomes de Oliveira},
+  year={2024},
+  school={Universidade de S{\~a}o Paulo}
+}
